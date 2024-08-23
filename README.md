@@ -16,12 +16,12 @@
  -->
 <h3>Programing Languege</h3>
 <p>
-<img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="80" height="35"/> 
+<img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="35" height="35"/> 
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
-<img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="35" height="35"/> 
-<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="35" height="35"/>
-<img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="40" height="40"/> 
+<img alt="python" src="https://skillicons.dev/icons?i=cs,python&theme=light"  width="35" height="35"/> 
+<img alt="go" src="https://skillicons.dev/icons?i=cs,python,golang&theme=light"  width="35" height="35"/>
+<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 
 </p>
 <h3>Frontend</h3>
@@ -31,7 +31,7 @@
 <img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
-<img alt="nextjs" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  width="35" height="35"/> 
+<img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light"  width="35" height="35"/> 
 <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width="35" height="35"/> 
 <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="35" height="35"/> 
 <img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
@@ -47,7 +47,7 @@
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  width="35" height="35"/>
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
-<img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"  width="35" height="35"/> 
+<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
 <p>
@@ -70,7 +70,7 @@
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
 <img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus&theme=light" width="35" height="35"/> 
-<img alt="grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="35" height="35"/> 
+<img alt="grafana" src="https://skillicons.dev/icons?i=grafana&theme=light" width="35" height="35"/> 
 <img alt="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" width="35" height="35"/> 
 </p>
 <h3>Infrastructure</h3>
