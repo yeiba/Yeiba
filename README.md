@@ -21,6 +21,7 @@
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 
 </p>
@@ -38,7 +39,7 @@
 </p>
 <h3>Backend</h3>
 <p>
-<img alt="nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"  width="35" height="35"/> 
+<img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 <img alt="express" src="https://skillicons.dev/icons?i=expressjs&theme=light" width="35" height="35"/>
 <img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
