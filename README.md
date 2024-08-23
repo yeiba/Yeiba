@@ -29,11 +29,11 @@
 <p>
 <img alt="figma" src="https://skillicons.dev/icons?i=figma&theme=light"  width="35" height="35"/> 
 <img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
-<img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
+<img alt="vite" src="https://skillicons.dev/icons?i=vite&theme=light"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
 <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light"  width="35" height="35"/> 
-<img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width="35" height="35"/> 
+<img alt="redux" src="https://skillicons.dev/icons?i=redux&theme=light"  width="35" height="35"/> 
 <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="35" height="35"/> 
 <img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
 </p>
@@ -49,6 +49,7 @@
 <img alt="kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  width="35" height="35"/>
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
 <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+<img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
 <p>
