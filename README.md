@@ -51,10 +51,10 @@
 </p>
 <h3>Database</h3>
 <p>
-<img alt="mongodb" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35"/> 
-<img alt="redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="35" height="35"/> 
+<img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb&theme=light" width="35" height="35"/> 
+<img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/> 
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
-<img alt="postgresql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  width="35" height="35"/> 
+<img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
 
 </p>
 <h3>DevOps</h3>
@@ -73,10 +73,10 @@
 </p>
 <h3>Infrastructure</h3>
 <p>
-<img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/> 
-<img alt="OpenStack" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" width="35" height="35"/> 
-<img alt="vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"  width="35" height="35"/> 
-<img alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="35" height="35"/> 
+<img alt="aws" src="https://skillicons.dev/icons?i=aws&theme=light" width="35" height="35"/> 
+<img alt="OpenStack" src="https://skillicons.dev/icons?i=openstack&theme=light" width="35" height="35"/> 
+<img alt="vagrant" src="https://skillicons.dev/icons?i=v&theme=light"  width="35" height="35"/> 
+<img alt="linux" src="https://skillicons.dev/icons?i=linux&theme=light"  width="35" height="35"/> 
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
 </p>
 
