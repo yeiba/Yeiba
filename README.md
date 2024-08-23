@@ -16,7 +16,7 @@
  -->
 <h3>Programing Languege</h3>
 <p>
-<img alt="bash" src="https://skillicons.dev/icons?bash&theme=light" width="80" height="35"/> 
+<img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="80" height="35"/> 
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="35" height="35"/> 
 <img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> 
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="35" height="35"/> 
