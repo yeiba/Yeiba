@@ -35,6 +35,8 @@
 <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light"  width="35" height="35"/> 
 <img alt="redux" src="https://skillicons.dev/icons?i=redux&theme=light"  width="35" height="35"/> 
 <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="35" height="35"/> 
+<img alt="html" src="https://skillicons.dev/icons?i=html&theme=light" width="35" height="35"/> 
+<img alt="css" src="https://skillicons.dev/icons?i=css&theme=light" width="35" height="35"/> 
 <img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Backend</h3>
