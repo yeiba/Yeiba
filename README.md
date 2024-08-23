@@ -27,6 +27,7 @@
 <p>
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
+<img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
 <img alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  width="35" height="35"/> 
 <img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
 <img alt="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35"/> 
@@ -39,7 +40,7 @@
 <img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width="35" height="35"/> 
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 <img alt="nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="35" height="35"/> 
-<img alt="express" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="35" height="35"/>
+<img alt="express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" height="35"/>
 <img alt="kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"  width="35" height="35"/> 
 <img alt="Zookeeper" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
@@ -76,4 +77,5 @@
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
 <img alt="vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"  width="35" height="35"/> 
 </p>
+
 
