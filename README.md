@@ -47,6 +47,7 @@
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
 <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/> 
 <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
