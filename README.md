@@ -27,7 +27,7 @@
 <h3>Frontend</h3>
 <p>
 <img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="35" height="35"/> 
-<img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="35" height="35"/> 
+<img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
 <img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
@@ -59,10 +59,11 @@
 </p>
 <h3>DevOps</h3>
 <p>
-<img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="35" height="35"/>
-<img alt="jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="35" height="35"/> 
+<img alt="git" src="https://skillicons.dev/icons?i=git&theme=light"  width="35" height="35"/>
+<img alt="github" src="https://skillicons.dev/icons?i=github&theme=light"  width="35" height="35"/>
+<img alt="jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=light"  width="35" height="35"/> 
 <img alt="kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="35" height="35"/> 
-<img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="35" height="35"/>
+<img alt="docker" src="https://skillicons.dev/icons?i=docker&theme=light"  width="35" height="35"/>
 <img alt="ansible" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="35" height="35"/> 
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
