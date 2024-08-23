@@ -42,7 +42,7 @@
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 <img alt="express" src="https://skillicons.dev/icons?i=expressjs&theme=light" width="35" height="35"/>
 <img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
-<img alt="kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"  width="35" height="35"/> 
+<img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
 <img alt="Zookeeper" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  width="35" height="35"/>
