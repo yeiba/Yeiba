@@ -66,7 +66,7 @@
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
-<img alt="selenium" src="https://raw.githubusercontent.com/detain/svg-logos/780f35886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="35" height="35"/> 
+<img alt="selenium" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="35" height="35"/> 
 </p>
 <h3>Infrastructure</h3>
 <p>
@@ -76,3 +76,4 @@
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
 <img alt="vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"  width="35" height="35"/> 
 </p>
+
