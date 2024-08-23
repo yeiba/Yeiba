@@ -59,16 +59,16 @@
 </p>
 <h3>DevOps</h3>
 <p>
-<img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="35" height="35"/>
 <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  width="35" height="35"/>
-<img alt="grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="35" height="35"/> 
 <img alt="jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  width="35" height="35"/> 
+<img alt="kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="35" height="35"/> 
+<img alt="docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"  width="35" height="35"/>
 <img alt="ansible" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="35" height="35"/> 
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
-<img alt="kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="35" height="35"/> 
-<img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
+<img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
+<img alt="grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="35" height="35"/> 
 <img alt="selenium" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="35" height="35"/> 
 </p>
 <h3>Infrastructure</h3>
