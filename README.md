@@ -20,7 +20,7 @@
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
 <img alt="python" src="https://skillicons.dev/icons?i=cs,python&theme=light"  width="35" height="35"/> 
-<img alt="go" src="https://skillicons.dev/icons?i=cs,python,golang&theme=light"  width="35" height="35"/>
+<img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 
 </p>
