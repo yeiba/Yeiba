@@ -56,6 +56,7 @@
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
 <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
 <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/> 
+<img alt="dynamodb" src="https://skillicons.dev/icons?i=dynamodb&theme=light"  width="35" height="35"/> 
 
 </p>
 <h3>DevOps</h3>
