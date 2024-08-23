@@ -17,8 +17,8 @@
 <h3>Programing Languege</h3>
 <p>
 <img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="80" height="35"/> 
-<img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="35" height="35"/> 
-<img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> 
+<img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
+<img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="35" height="35"/> 
 <img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="35" height="35"/>
 <img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="40" height="40"/> 
@@ -26,7 +26,7 @@
 </p>
 <h3>Frontend</h3>
 <p>
-<img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="35" height="35"/> 
+<img alt="figma" src="https://skillicons.dev/icons?i=figma&theme=light"  width="35" height="35"/> 
 <img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
 <img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
@@ -62,9 +62,9 @@
 <img alt="git" src="https://skillicons.dev/icons?i=git&theme=light"  width="35" height="35"/>
 <img alt="github" src="https://skillicons.dev/icons?i=github&theme=light"  width="35" height="35"/>
 <img alt="jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=light"  width="35" height="35"/> 
-<img alt="kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  width="35" height="35"/> 
+<img alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=light"  width="35" height="35"/> 
 <img alt="docker" src="https://skillicons.dev/icons?i=docker&theme=light"  width="35" height="35"/>
-<img alt="ansible" src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  width="35" height="35"/> 
+<img alt="ansible" src="https://skillicons.dev/icons?i=ansible&theme=light"  width="35" height="35"/> 
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
