@@ -45,7 +45,6 @@
 <img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
 <img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
-<img alt="kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  width="35" height="35"/>
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
 <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
 <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
