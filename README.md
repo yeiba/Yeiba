@@ -31,7 +31,6 @@
 <img alt="vscode" src="https://skillicons.dev/icons?i=vscode&theme=light"  width="35" height="35"/> 
 <img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
 <img alt="vite" src="https://skillicons.dev/icons?i=vite&theme=light"  width="35" height="35"/> 
-<img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
 <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light"  width="35" height="35"/> 
 <img alt="redux" src="https://skillicons.dev/icons?i=redux&theme=light"  width="35" height="35"/> 
