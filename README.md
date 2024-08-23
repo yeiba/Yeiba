@@ -68,6 +68,7 @@
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
+<img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus&theme=light" width="35" height="35"/> 
 <img alt="grafana" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="35" height="35"/> 
 <img alt="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" width="35" height="35"/> 
 </p>
