@@ -34,7 +34,7 @@
 <img alt="nextjs" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  width="35" height="35"/> 
 <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width="35" height="35"/> 
 <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="35" height="35"/> 
-<img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="35" height="35"/> 
+<img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Backend</h3>
 <p>
