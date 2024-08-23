@@ -28,6 +28,7 @@
 <h3>Frontend</h3>
 <p>
 <img alt="figma" src="https://skillicons.dev/icons?i=figma&theme=light"  width="35" height="35"/> 
+<img alt="vscode" src="https://skillicons.dev/icons?i=vscode&theme=light"  width="35" height="35"/> 
 <img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
 <img alt="vite" src="https://skillicons.dev/icons?i=vite&theme=light"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
@@ -55,6 +56,7 @@
 <img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/> 
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
 <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
+<img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/> 
 
 </p>
 <h3>DevOps</h3>
