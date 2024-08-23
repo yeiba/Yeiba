@@ -16,36 +16,38 @@
  -->
 <h3>Programing Languege</h3>
 <p>
-<img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="35" height="35"/> 
+<img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="80" height="35"/> 
 <img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="35" height="35"/> 
 <img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35" height="35"/> 
 <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  width="35" height="35"/> 
-<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="35" height="35"/> 
-<img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"  width="35" height="35"/> 
+<img alt="go" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"  width="35" height="35"/>
+<img alt="csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"  width="40" height="40"/> 
+
 </p>
 <h3>Frontend</h3>
 <p>
+<img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="35" height="35"/> 
 <img alt="react" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"  width="35" height="35"/> 
+<img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
 <img alt="reactnative" src="https://reactnative.dev/img/header_logo.svg"  width="35" height="35"/> 
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
-<img alt="nextjs" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"  width="35" height="35"/> 
-<img alt="vite" src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg"  width="35" height="35"/> 
-<img alt="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35"/> 
+<img alt="nextjs" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg"  width="35" height="35"/> 
 <img alt="redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"  width="35" height="35"/> 
+<img alt="tailwind" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="35" height="35"/> 
 <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"  width="35" height="35"/> 
-<img alt="figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"  width="35" height="35"/> 
 </p>
 <h3>Backend</h3>
 <p>
-<img alt="nodejs" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width="35" height="35"/> 
+<img alt="nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"  width="35" height="35"/> 
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
-<img alt="nginx" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"  width="35" height="35"/> 
 <img alt="express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" height="35"/>
+<img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
 <img alt="kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"  width="35" height="35"/> 
 <img alt="Zookeeper" src="https://www.vectorlogo.zone/logos/apache_zookeeper/apache_zookeeper-icon.svg"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="kibana" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  width="35" height="35"/>
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
+<img alt=".net" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
 <p>
@@ -73,9 +75,9 @@
 <p>
 <img alt="aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/> 
 <img alt="OpenStack" src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" width="35" height="35"/> 
+<img alt="vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"  width="35" height="35"/> 
 <img alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="35" height="35"/> 
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
-<img alt="vagrant" src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg"  width="35" height="35"/> 
 </p>
 
 
