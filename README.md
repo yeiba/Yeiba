@@ -18,8 +18,8 @@
 <p>
 <!-- <a href="[http://]"></a> -->
 <a  href="https://www.gnu.org/software/bash/" target="blank" style={{display: "table-cell"}} >
-</a>
 <img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="35" height="35"/> 
+</a>
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
