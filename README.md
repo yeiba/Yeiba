@@ -22,7 +22,7 @@
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
-<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
+<!-- <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/>  -->
 
 </p>
 <h3>Frontend</h3>
@@ -48,8 +48,8 @@
 <img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
-<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
-<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/> 
+<!-- <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  -->
 <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
@@ -58,7 +58,7 @@
 <img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/> 
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
 <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
-<img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/> 
+<!-- <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/>  -->
 <img alt="dynamodb" src="https://skillicons.dev/icons?i=dynamodb&theme=light"  width="35" height="35"/> 
 
 </p>
