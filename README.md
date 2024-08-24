@@ -15,7 +15,7 @@
 </p>
  -->
 <h3>Programing Languages</h3>
-<p>
+<p style="text-decoration: underline" >
 <!-- <a href="https://www.typescriptlang.org/"></a> -->
 <a  href="https://www.gnu.org/software/bash/" target="_blank" style="text-decoration: none"  >
 <img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="35" height="35"/> 
