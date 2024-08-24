@@ -80,7 +80,7 @@
 <img alt="linux" src="https://skillicons.dev/icons?i=linux&theme=light"  width="35" height="35"/> 
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
 </p>
-<h3>Things I'm about to learn</h3>
+<h3>Things I'm learning now</h3>
 <p>
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
