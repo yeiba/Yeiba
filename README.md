@@ -25,7 +25,7 @@
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/>  -->
 
 </p>
-<h3>Frontend</h3>
+<h3>Framework & Applications</h3>
 <p>
 <img alt="figma" src="https://skillicons.dev/icons?i=figma&theme=light"  width="35" height="35"/> 
 <img alt="vscode" src="https://skillicons.dev/icons?i=vscode&theme=light"  width="35" height="35"/> 
