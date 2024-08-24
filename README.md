@@ -45,13 +45,28 @@
 <a href="https://vitejs.dev/" style="text-decoration: none" >
 <img alt="vite" src="https://skillicons.dev/icons?i=vite&theme=light"  width="35" height="35"/> 
 </a>
+<!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
+<a href="https://expo.dev/" style="text-decoration: none" >
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://nextjs.org/" style="text-decoration: none" >
 <img alt="nextjs" src="https://skillicons.dev/icons?i=nextjs&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://redux-toolkit.js.org/" style="text-decoration: none" >
 <img alt="redux" src="https://skillicons.dev/icons?i=redux&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://tailwindcss.com/" style="text-decoration: none" >
 <img alt="tailwind" src="https://skillicons.dev/icons?i=tailwindcss&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://en.wikipedia.org/wiki/HTML" style="text-decoration: none" >
 <img alt="html" src="https://skillicons.dev/icons?i=html&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://en.wikipedia.org/wiki/CSS" style="text-decoration: none" >
 <img alt="css" src="https://skillicons.dev/icons?i=css&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://sass-lang.com/" style="text-decoration: none" >
 <img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
+</a>
 </p>
 <h3>API'S</h3>
 <p>
