@@ -14,7 +14,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
  -->
-<h3>Programing Languege</h3>
+<h3>Programing Languages</h3>
 <p>
 <img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="35" height="35"/> 
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
