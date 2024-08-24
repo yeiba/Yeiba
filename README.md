@@ -20,10 +20,6 @@
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
-<!-- <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
-<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
-<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/>  -->
-
 </p>
 <h3>Framework & Applications</h3>
 <p>
@@ -48,8 +44,6 @@
 <img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
-<!-- <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
-<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  -->
 <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
 </p>
 <h3>Database</h3>
@@ -85,6 +79,14 @@
 <img alt="vagrant" src="https://skillicons.dev/icons?i=v&theme=light"  width="35" height="35"/> 
 <img alt="linux" src="https://skillicons.dev/icons?i=linux&theme=light"  width="35" height="35"/> 
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
+</p>
+<h3>Things I'm about to learn</h3>
+<p>
+<!-- <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
+<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/>  -->
+<!-- <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  -->
 </p>
 
 
