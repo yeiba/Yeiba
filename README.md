@@ -22,7 +22,9 @@
 </a>
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
 <img alt="typescript" src="https://skillicons.dev/icons?i=typescript&theme=light"  width="35" height="35"/> 
+<a  href="https://www.gnu.org/software/bash/" target="blank" style={{display: "none"}} >
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
+</a>
 </p>
 <h3>Framework & Applications</h3>
 <p>
