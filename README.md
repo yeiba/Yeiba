@@ -98,12 +98,22 @@
 <h3>Database</h3>
 <p>
 <!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
+<a href="https://www.mongodb.com/" style="text-decoration: none" >  
 <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb&theme=light" width="35" height="35"/> 
-<img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://redis.io/" style="text-decoration: none" >
+<img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/>   
+</a>
+<a href="https://www.elastic.co/" style="text-decoration: none" >  
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://www.postgresql.org/" style="text-decoration: none" >
 <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
+</a>
 <!-- <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/>  -->
+<a href="https://aws.amazon.com/dynamodb/" style="text-decoration: none" >
 <img alt="dynamodb" src="https://skillicons.dev/icons?i=dynamodb&theme=light"  width="35" height="35"/> 
+</a>
 
 </p>
 <h3>DevOps</h3>
