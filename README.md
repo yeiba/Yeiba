@@ -87,6 +87,9 @@
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
 <img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
+<img alt="azur" src="https://skillicons.dev/icons?i=azure&theme=light"  width="35" height="35"/>  
+<img alt="gcp" src="https://skillicons.dev/icons?i=gcp&theme=light"  width="35" height="35"/>  
+<img alt="openshift" src="https://skillicons.dev/icons?i=openshift&theme=light"  width="35" height="35"/>  
 </p>
 
 
