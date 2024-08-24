@@ -78,7 +78,7 @@
 <img alt="OpenStack" src="https://skillicons.dev/icons?i=openstack&theme=light" width="35" height="35"/> 
 <img alt="vagrant" src="https://skillicons.dev/icons?i=v&theme=light"  width="35" height="35"/> 
 <img alt="linux" src="https://skillicons.dev/icons?i=linux&theme=light"  width="35" height="35"/> 
-<img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg"  width="35" height="35"/> 
+<img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg"  width="35" height="35"/> 
 </p>
 <h3>Things I'm learning now</h3>
 <p>
