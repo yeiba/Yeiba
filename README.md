@@ -16,8 +16,8 @@
  -->
 <h3>Programing Languages</h3>
 <p>
-<a href="[http://]"></a>
-<a  href="https://www.gnu.org/software/bash/"  target="_blank" >
+<!-- <a href="[http://]"></a> -->
+<a  href="https://www.gnu.org/software/bash/" target="_blank" >
 <img alt="bash" src="https://skillicons.dev/icons?i=bash&theme=light" width="35" height="35"/> 
 </a>
 <img alt="javascript" src="https://skillicons.dev/icons?i=javascript&theme=light" width="35" height="35"/> 
