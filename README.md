@@ -39,7 +39,7 @@
 <img alt="css" src="https://skillicons.dev/icons?i=css&theme=light" width="35" height="35"/> 
 <img alt="sass" src="https://skillicons.dev/icons?i=sass&theme=light"  width="35" height="35"/> 
 </p>
-<h3>Backend</h3>
+<h3>API'S</h3>
 <p>
 <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
