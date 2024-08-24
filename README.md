@@ -82,11 +82,11 @@
 </p>
 <h3>Things I'm about to learn</h3>
 <p>
-<!-- <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+<img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/>  -->
-<!-- <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
-<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  -->
+<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
 </p>
 
 
