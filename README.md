@@ -45,7 +45,6 @@
 <a href="https://vitejs.dev/" style="text-decoration: none" >
 <img alt="vite" src="https://skillicons.dev/icons?i=vite&theme=light"  width="35" height="35"/> 
 </a>
-<!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
 <a href="https://expo.dev/" style="text-decoration: none" >
 <img alt="expo" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"  width="35" height="35"/> 
 </a>
@@ -70,17 +69,35 @@
 </p>
 <h3>API'S</h3>
 <p>
+<!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
+<a href="https://nodejs.org/" style="text-decoration: none" >
 <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://www.npmjs.com/" style="text-decoration: none" >
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
+</a>
+<a href="https://expressjs.com/" style="text-decoration: none" >
 <img alt="express" src="https://skillicons.dev/icons?i=expressjs&theme=light" width="35" height="35"/>
+</a>
+<a href="https://nginx.org/" style="text-decoration: none" >
 <img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://kafka.apache.org/" style="text-decoration: none" >
 <img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://spark.apache.org/" style="text-decoration: none" >
 <img alt="Apache Spark" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://www.elastic.co/logstash" style="text-decoration: none" >
 <img alt="logstash" src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  width="35" height="35"/>
+</a>
+<a href="https://www.postman.com/" style="text-decoration: none" >  
 <img alt="postman" src="https://skillicons.dev/icons?i=postman&theme=light"  width="35" height="35"/> 
+</a>
 </p>
 <h3>Database</h3>
 <p>
+<!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
 <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb&theme=light" width="35" height="35"/> 
 <img alt="redis" src="https://skillicons.dev/icons?i=redis&theme=light" width="35" height="35"/> 
 <img alt="elasticsearch" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  width="35" height="35"/> 
