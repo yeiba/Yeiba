@@ -180,14 +180,30 @@
 <h3>Things I'm learning now</h3>
 <p>
 <!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
+<a href="https://go.dev/" style="text-decoration: none" >  
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://www.rust-lang.org/" style="text-decoration: none" >  
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" style="text-decoration: none" >
 <img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://flask.palletsprojects.com/" style="text-decoration: none" >  
 <img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://azure.microsoft.com/en-us" style="text-decoration: none" >
 <img alt="azur" src="https://skillicons.dev/icons?i=azure&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://cloud.google.com/gcp" style="text-decoration: none" >  
 <img alt="gcp" src="https://skillicons.dev/icons?i=gcp&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" style="text-decoration: none" >  
 <img alt="openshift" src="https://skillicons.dev/icons?i=openshift&theme=light"  width="35" height="35"/>  
+</a>
 </p>
 
 
