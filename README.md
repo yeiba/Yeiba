@@ -118,11 +118,22 @@
 </p>
 <h3>DevOps</h3>
 <p>
+<!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
+<a href="https://git-scm.com/" style="text-decoration: none" >
 <img alt="git" src="https://skillicons.dev/icons?i=git&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://github.com/" style="text-decoration: none" >  
 <img alt="github" src="https://skillicons.dev/icons?i=github&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://www.jenkins.io/" style="text-decoration: none" >  
 <img alt="jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://kubernetes.io/" style="text-decoration: none" >  
 <img alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://www.docker.com/" style="text-decoration: none" >  
 <img alt="docker" src="https://skillicons.dev/icons?i=docker&theme=light"  width="35" height="35"/>
+</a>
 <img alt="ansible" src="https://skillicons.dev/icons?i=ansible&theme=light"  width="35" height="35"/> 
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
