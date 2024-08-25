@@ -141,7 +141,7 @@
 <a href="https://www.terraform.io/" style="text-decoration: none" >  
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
 </a>
-<a href="https://helm.sh/" style="text-decoration: none" >  
+<a href="[helm](https://helm.sh/)" style="text-decoration: none" >  
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" style="background-color: white" width="35" height="35"/> 
 </a>
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
