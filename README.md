@@ -134,7 +134,6 @@
 <a href="https://kubernetes.io/" style="text-decoration: none" >  
 <img alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=light"  width="35" height="35"/> 
 </a>
-<!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
 <a href="https://www.ansible.com/" style="text-decoration: none" >  
 <img alt="ansible" src="https://skillicons.dev/icons?i=ansible&theme=light"  width="35" height="35"/> 
 </a>
@@ -162,15 +161,25 @@
 </p>
 <h3>Infrastructure</h3>
 <p>
+<a href="https://aws.amazon.com/" style="text-decoration: none" >  
 <img alt="aws" src="https://skillicons.dev/icons?i=aws&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://www.openstack.org/" style="text-decoration: none" >  
 <img alt="OpenStack" src="https://skillicons.dev/icons?i=openstack&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://www.vagrantup.com/" style="text-decoration: none" >  
 <img alt="vagrant" src="https://skillicons.dev/icons?i=v&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://www.linux.org/" style="text-decoration: none" >  
 <img alt="linux" src="https://skillicons.dev/icons?i=linux&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://ubuntu.com/" style="text-decoration: none" >  
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg"  width="35" height="35"/> 
+</a>
 </p>
 <h3>Things I'm learning now</h3>
 <p>
-
+<!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
