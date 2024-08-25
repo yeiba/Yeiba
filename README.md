@@ -141,14 +141,24 @@
 <a href="https://www.terraform.io/" style="text-decoration: none" >  
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
 </a>
-<a href="[helm](https://helm.sh/)" style="text-decoration: none" >  
+<a href="https://helm.sh/" style="text-decoration: none" >  
 <img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" style="background-color: white" width="35" height="35"/> 
 </a>
+<a href="https://aws.amazon.com/eks/" style="text-decoration: none" >  
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://letsencrypt.org/" style="text-decoration: none" >  
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://prometheus.io/" style="text-decoration: none" >  
 <img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://grafana.com/" style="text-decoration: none" >  
 <img alt="grafana" src="https://skillicons.dev/icons?i=grafana&theme=light" width="35" height="35"/> 
+</a>
+<a href="https://www.selenium.dev/" style="text-decoration: none" >  
 <img alt="selenium" src="https://skillicons.dev/icons?i=selenium&theme=light" width="35" height="35"/> 
+</a>
 </p>
 <h3>Infrastructure</h3>
 <p>
