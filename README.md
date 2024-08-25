@@ -128,15 +128,22 @@
 <a href="https://www.jenkins.io/" style="text-decoration: none" >  
 <img alt="jenkins" src="https://skillicons.dev/icons?i=jenkins&theme=light"  width="35" height="35"/> 
 </a>
-<a href="https://kubernetes.io/" style="text-decoration: none" >  
-<img alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=light"  width="35" height="35"/> 
-</a>
 <a href="https://www.docker.com/" style="text-decoration: none" >  
 <img alt="docker" src="https://skillicons.dev/icons?i=docker&theme=light"  width="35" height="35"/>
 </a>
+<a href="https://kubernetes.io/" style="text-decoration: none" >  
+<img alt="kubernetes" src="https://skillicons.dev/icons?i=kubernetes&theme=light"  width="35" height="35"/> 
+</a>
+<!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
+<a href="https://www.ansible.com/" style="text-decoration: none" >  
 <img alt="ansible" src="https://skillicons.dev/icons?i=ansible&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://www.terraform.io/" style="text-decoration: none" >  
 <img alt="terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  width="35" height="35"/> 
-<img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"  width="35" height="35"/> 
+</a>
+<a href="https://helm.sh/" style="text-decoration: none" >  
+<img alt="helm" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" style="background-color: white" width="35" height="35"/> 
+</a>
 <img alt="AWS EKS" src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg"  width="35" height="35"/> 
 <img alt="let's encrypt" src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg"  width="35" height="35"/> 
 <img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus&theme=light" width="35" height="35"/> 
