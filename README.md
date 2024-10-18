@@ -83,7 +83,7 @@
 <img alt="express" src="https://skillicons.dev/icons?i=expressjs&theme=light" width="35" height="35"/>
 </a>
 <a href="https://nginx.org/" style="text-decoration: none" >
-<img alt="nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"  width="35" height="35"/> 
+<img alt="nginx" src="https://skillicons.dev/icons?i=nginx&theme=light"  width="35" height="35"/> 
 </a>
 <a href="https://kafka.apache.org/" style="text-decoration: none" >
 <img alt="kafka" src="https://skillicons.dev/icons?i=kafka&theme=light"  width="35" height="35"/> 
