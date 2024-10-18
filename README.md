@@ -73,6 +73,15 @@
 <h3>API'S</h3>
 <p>
 <!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
+<a href="https://go.dev/" style="text-decoration: none" >  
+<img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://www.rust-lang.org/" style="text-decoration: none" >  
+<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://spring.io/" style="text-decoration: none" >
+<img alt="spring" src="https://skillicons.dev/icons?i=spring&theme=light"  width="35" height="35"/> 
+</a>
 <a href="https://nodejs.org/" style="text-decoration: none" >
 <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
 </a>
