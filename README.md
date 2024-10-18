@@ -30,7 +30,7 @@
 <img alt="python" src="https://skillicons.dev/icons?i=python&theme=light"  width="35" height="35"/> 
 </a>
 <a  href="https://www.java.com/" style="text-decoration: none" >
-<img alt="Java" src="https://skillicons.dev/icons?i=&theme=light"  width="35" height="35"/> 
+<img alt="java" src="https://skillicons.dev/icons?i=&theme=light"  width="35" height="35"/> 
 </a>
 </p>
 <h3>Framework & Applications</h3>
