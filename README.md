@@ -32,6 +32,9 @@
 <a  href="https://www.java.com/" style="text-decoration: none" >
 <img alt="java" src="https://skillicons.dev/icons?i=java&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
+<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
+</a>
 </p>
 <h3>Framework & Applications</h3>
 <p>
@@ -82,14 +85,17 @@
 <a href="https://spring.io/" style="text-decoration: none" >
 <img alt="spring" src="https://skillicons.dev/icons?i=spring&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" style="text-decoration: none" >
+<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
+</a>
 <a href="https://nodejs.org/" style="text-decoration: none" >
 <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
 </a>
-<a href="https://www.npmjs.com/" style="text-decoration: none" >
-<img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
-</a>
 <a href="https://expressjs.com/" style="text-decoration: none" >
 <img alt="express" src="https://skillicons.dev/icons?i=expressjs&theme=light" width="35" height="35"/>
+</a>
+<a href="https://www.npmjs.com/" style="text-decoration: none" >
+<img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 </a>
 <a href="https://nginx.org/" style="text-decoration: none" >
 <img alt="nginx" src="https://skillicons.dev/icons?i=nginx&theme=light"  width="35" height="35"/> 
@@ -198,12 +204,6 @@
 <h3>Things I'm learning now</h3>
 <p>
 <!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
-<img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
-</a>
-<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" style="text-decoration: none" >
-<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
-</a>
 <a href="https://flask.palletsprojects.com/" style="text-decoration: none" >  
 <img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
 </a>
