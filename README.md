@@ -128,6 +128,9 @@
 <a href="https://github.com/" style="text-decoration: none" >  
 <img alt="github" src="https://skillicons.dev/icons?i=github&theme=light"  width="35" height="35"/>
 </a>
+<a href="https://github.com/" style="text-decoration: none" >  
+<img alt="githubaction" src="https://skillicons.dev/icons?i=githubactions&theme=light"  width="35" height="35"/>
+</a>
 <a href="https://gitlab.com/" style="text-decoration: none" >  
 <img alt="gitlab" src="https://skillicons.dev/icons?i=gitlab&theme=light"  width="35" height="35"/>
 </a>
