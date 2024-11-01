@@ -103,6 +103,12 @@
 <a href="https://www.npmjs.com/" style="text-decoration: none" >
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 </a>
+<a href="https://go.dev/" style="text-decoration: none" >  
+<img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://www.rust-lang.org/" style="text-decoration: none" >  
+<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
+</a>
 <a href="https://nginx.org/" style="text-decoration: none" >
 <img alt="nginx" src="https://skillicons.dev/icons?i=nginx&theme=light"  width="35" height="35"/> 
 </a>
