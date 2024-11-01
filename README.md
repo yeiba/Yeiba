@@ -57,6 +57,9 @@
 <a href="https://code.visualstudio.com/" style="text-decoration: none" >
 <img alt="vscode" src="https://skillicons.dev/icons?i=vscode&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://www.jetbrains.com/idea/" style="text-decoration: none" >
+<img alt="intellij IDEA" src="https://skillicons.dev/icons?i=idea&theme=light"  width="35" height="35"/> 
+</a>
 <a href="https://react.dev/" style="text-decoration: none" >
 <img alt="react" src="https://skillicons.dev/icons?i=react&theme=light"  width="35" height="35"/> 
 </a>
