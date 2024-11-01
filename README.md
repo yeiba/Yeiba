@@ -32,6 +32,12 @@
 <a  href="https://www.java.com/" style="text-decoration: none" >
 <img alt="java" src="https://skillicons.dev/icons?i=java&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://cplusplus.com/" style="text-decoration: none" >  
+<img alt="c" src="https://skillicons.dev/icons?i=c&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://cplusplus.com/" style="text-decoration: none" >  
+<img alt="cpp" src="https://skillicons.dev/icons?i=cpp&theme=light"  width="35" height="35"/> 
+</a>
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 </a>
