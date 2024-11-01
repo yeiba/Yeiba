@@ -106,6 +106,12 @@
 <a href="https://www.npmjs.com/" style="text-decoration: none" >
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 </a>
+<a href="https://flask.palletsprojects.com/" style="text-decoration: none" >  
+<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://www.django-rest-framework.org/" style="text-decoration: none" >  
+<img alt="django" src="https://skillicons.dev/icons?i=django&theme=light"  width="35" height="35"/>  
+</a>
 <a href="https://go.dev/" style="text-decoration: none" >  
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 </a>
@@ -222,9 +228,6 @@
 <h3>Things I'm learning now</h3>
 <p>
 <!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
-<a href="https://flask.palletsprojects.com/" style="text-decoration: none" >  
-<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
-</a>
 <a href="https://azure.microsoft.com/en-us" style="text-decoration: none" >
 <img alt="azur" src="https://skillicons.dev/icons?i=azure&theme=light"  width="35" height="35"/>  
 </a>
