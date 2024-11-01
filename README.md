@@ -143,6 +143,9 @@
 <a href="https://www.postgresql.org/" style="text-decoration: none" >
 <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://www.mysql.com/" style="text-decoration: none" >
+<img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/> 
+</a>
 <!-- <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/>  -->
 <a href="https://aws.amazon.com/dynamodb/" style="text-decoration: none" >
 <img alt="dynamodb" src="https://skillicons.dev/icons?i=dynamodb&theme=light"  width="35" height="35"/> 
