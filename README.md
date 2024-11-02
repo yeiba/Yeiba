@@ -152,11 +152,13 @@
 <a href="https://www.mysql.com/" style="text-decoration: none" >
 <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://www.sqlite.org/" style="text-decoration: none" >
+<img alt="sqlite" src="https://skillicons.dev/icons?i=sqlite&theme=light"  width="35" height="35"/> 
+</a>
 <!-- <img alt="mysql" src="https://skillicons.dev/icons?i=mysql&theme=light"  width="35" height="35"/>  -->
 <a href="https://aws.amazon.com/dynamodb/" style="text-decoration: none" >
 <img alt="dynamodb" src="https://skillicons.dev/icons?i=dynamodb&theme=light"  width="35" height="35"/> 
 </a>
-
 </p>
 <h3>DevOps</h3>
 <p>
@@ -223,6 +225,22 @@
 </a>
 <a href="https://ubuntu.com/" style="text-decoration: none" >  
 <img alt="ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg"  width="35" height="35"/> 
+</a>
+</p>
+<h3>Robotics & Data science </h3>
+<p>
+<!-- <a href="wwwwww://www.wwwwwww.wwwwww/" style="text-decoration: none" ></a> -->
+<a href="https://www.arduino.cc/" style="text-decoration: none" >
+<img alt="arduino" src="https://skillicons.dev/icons?i=arduino&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://www.raspberrypi.com/" style="text-decoration: none" >  
+<img alt="raspberrypi" src="https://skillicons.dev/icons?i=raspberrypi&theme=light"  width="35" height="35"/>  
+</a>
+<a href="https://www.tensorflow.org/" style="text-decoration: none" >
+<img alt="tensorflow" src="https://skillicons.dev/icons?i=tensorflow&theme=light"  width="35" height="35"/> 
+</a>
+<a href="https://pytorch.org/" style="text-decoration: none" >
+<img alt="pytorch" src="https://skillicons.dev/icons?i=pytorch&theme=light"  width="35" height="35"/> 
 </a>
 </p>
 <h3>Things I'm learning now</h3>
