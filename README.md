@@ -41,6 +41,9 @@
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 </a>
+<a href="https://www.php.net/" style="text-decoration: none" >  
+<img alt="php" src="https://skillicons.dev/icons?i=php&theme=light"  width="35" height="35"/> 
+</a>
 <a href="https://go.dev/" style="text-decoration: none" >  
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 </a>
@@ -117,6 +120,9 @@
 </a>
 <a href="https://www.rust-lang.org/" style="text-decoration: none" >  
 <img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
+</a>
+<a href="https://laravel.com/" style="text-decoration: none" >  
+<img alt="laravel" src="https://skillicons.dev/icons?i=laravel&theme=light"  width="35" height="35"/>
 </a>
 <a href="https://nginx.org/" style="text-decoration: none" >
 <img alt="nginx" src="https://skillicons.dev/icons?i=nginx&theme=light"  width="35" height="35"/> 
