@@ -41,14 +41,8 @@
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="text-decoration: none" >  
 <img alt="csharp" src="https://skillicons.dev/icons?i=cs&theme=light"  width="35" height="35"/> 
 </a>
-<a href="https://www.php.net/" style="text-decoration: none" >  
-<img alt="php" src="https://skillicons.dev/icons?i=php&theme=light"  width="35" height="35"/> 
-</a>
 <a href="https://go.dev/" style="text-decoration: none" >  
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
-</a>
-<a href="https://www.rust-lang.org/" style="text-decoration: none" >  
-<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
 </a>
 </p>
 <h3>Framework & Applications</h3>
@@ -94,12 +88,6 @@
 <h3>API'S</h3>
 <p>
 <!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
-<a href="https://spring.io/" style="text-decoration: none" >
-<img alt="spring" src="https://skillicons.dev/icons?i=spring&theme=light"  width="35" height="35"/> 
-</a>
-<a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" style="text-decoration: none" >
-<img alt=".net" src="https://skillicons.dev/icons?i=dotnet&theme=light"  width="35" height="35"/> 
-</a>
 <a href="https://nodejs.org/" style="text-decoration: none" >
 <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs&theme=light"  width="35" height="35"/> 
 </a>
@@ -109,20 +97,11 @@
 <a href="https://www.npmjs.com/" style="text-decoration: none" >
 <img alt="npm" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"  width="35" height="35"/> 
 </a>
-<a href="https://flask.palletsprojects.com/" style="text-decoration: none" >  
-<img alt="flask" src="https://skillicons.dev/icons?i=flask&theme=light"  width="35" height="35"/>  
-</a>
-<a href="https://www.django-rest-framework.org/" style="text-decoration: none" >  
-<img alt="django" src="https://skillicons.dev/icons?i=django&theme=light"  width="35" height="35"/>  
+<a href="https://fastapi.tiangolo.com/" style="text-decoration: none" >  
+<img alt="Fastapi" src="https://skillicons.dev/icons?i=fastapi&theme=dark"  width="35" height="35"/>  
 </a>
 <a href="https://go.dev/" style="text-decoration: none" >  
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
-</a>
-<a href="https://www.rust-lang.org/" style="text-decoration: none" >  
-<img alt="rust" src="https://skillicons.dev/icons?i=rust&theme=light"  width="35" height="35"/>
-</a>
-<a href="https://laravel.com/" style="text-decoration: none" >  
-<img alt="laravel" src="https://skillicons.dev/icons?i=laravel&theme=light"  width="35" height="35"/>
 </a>
 <a href="https://nginx.org/" style="text-decoration: none" >
 <img alt="nginx" src="https://skillicons.dev/icons?i=nginx&theme=light"  width="35" height="35"/> 
@@ -143,6 +122,9 @@
 <h3>Database</h3>
 <p>
 <!-- <a href="https://www.typescriptlang.org/" style="text-decoration: none" ></a> -->
+<a href="https://www.prisma.io/" style="text-decoration: none" >  
+<img alt="prisma" src="https://skillicons.dev/icons?i=prisma&theme=dark" width="35" height="35"/> 
+</a>
 <a href="https://www.mongodb.com/" style="text-decoration: none" >  
 <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb&theme=light" width="35" height="35"/> 
 </a>
