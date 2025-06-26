@@ -45,7 +45,7 @@
 <img alt="go" src="https://skillicons.dev/icons?i=golang&theme=light"  width="35" height="35"/>
 </a>
 <a href="https://soliditylang.org/" style="text-decoration: none" >  
-<img alt="solidity" src="https://skillicons.dev/icons?i=[object Set]&theme=light"  width="35" height="35"/>
+<img alt="solidity" src="https://skillicons.dev/icons?i=solidity&theme=light"  width="35" height="35"/>
 </a>
 <a href="https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview?view=azuresql" style="text-decoration: none" >  
 <img alt="SQL" src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg"  width="35" height="35"/>
